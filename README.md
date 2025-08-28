@@ -1,5 +1,5 @@
 These are some of my modified scripts based on insertnamehere and litework scripts.
-Some friends of mine (and my alts) were having a hard time building their army so i modified theses script in order to help them (thats why the info is in Portuguese/Brazil in some)
+Some friends of mine (and my alts) were having a hard time building their army so i modified these scripts in order to help them (thats why the info is in Portuguese/Brazil in some)
 
 Tested in Grimlite Ligma (1.7.1)
 
